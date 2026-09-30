@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The API key is encrypted with a device-bound Keystore key, so it can never be restored elsewhere. -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="." />
+</full-backup-content>
